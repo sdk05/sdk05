@@ -24,7 +24,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdk05&layout=compact&theme=tokyonight)  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dineshkumar-s-938989180)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your-email@example.com)  
 
 ---
