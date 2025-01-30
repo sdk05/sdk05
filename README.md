@@ -1,31 +1,67 @@
-# 👋 Hi, I'm Dinesh! 🚀  
+<img align="left" height="150" src="Dinesh"  />
 
-**DevOps Engineer | Cloud Enthusiast | Automation Lover**  
+###
 
-🏆 **Certifications:**  
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA-blue?style=flat&logo=kubernetes) **Certified Kubernetes Administrator (CKA)**  
-- ![AWS](https://img.shields.io/badge/AWS-Certified-orange?style=flat&logo=amazon-aws) **AWS Certified (Solutions Architect/DevOps Engineer)**  
-- ![GCP](https://img.shields.io/badge/GCP-Certified-blue?style=flat&logo=google-cloud) **Google Cloud Certified**  
+<div align="center">
+  <a href="https://www.linkedin.com/in/dineshkumar-s-938989180">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
+  </a>
+  <a href="https://www.youtube.com/@YOUR-YOUTUBE-CHANNEL">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo"  />
+  </a>
+  <a href="https://www.x.com/@YOUR-TWITTER-USERNAME">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo"  />
+  </a>
+</div>
 
-💻 **Tech Stack & Skills:**  
-- ![AWS](https://img.shields.io/badge/AWS-%23013243.svg?style=flat&logo=amazon-aws)  
-- ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud)  
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes)  
-- ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform)  
-- ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat&logo=ansible)  
-- ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins)  
-- ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker)  
-- ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python)  
-- ![Bash](https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=flat&logo=gnu-bash)  
+###
 
-## 📊 GitHub Stats  
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sdk05"  />
+</div>
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your-email@example.com)  
+###
 
----
+<h1 align="center">Hey there 👋</h1>
 
-🌱 **“Automate Everything, Scale Infinitely!”** 🚀  
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm YOUR NAME, based in YOUR LOCATION.<br><br>
+- 🔭 I’m working as a DevOps Engineer<br>
+- 📚 I'm currently learning and exploring AWS, Kubernetes, and Terraform<br>
+- ⚡ In my free time, I contribute to open-source projects and write tech blogs</p>
+
+###
+
+<h3 align="left">🛠 Languages and Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="Jenkins logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
