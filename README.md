@@ -1,67 +1,59 @@
-<img align="left" height="150" src="Dinesh"  />
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/dineshkumar-s-938989180">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
-  </a>
-  <a href="https://www.youtube.com/@YOUR-YOUTUBE-CHANNEL">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo"  />
-  </a>
-  <a href="https://www.x.com/@YOUR-TWITTER-USERNAME">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo"  />
-  </a>
+  <img height="150" src="https://cdn.pixabay.com/photo/2016/03/31/19/56/avatar-1295399_1280.png" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sdk05"  />
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sdk05" height="30"/>
 </div>
 
-###
+<h1 align="center">Hey there! 👋 I'm Dinesh</h1>
 
-<h1 align="center">Hey there 👋</h1>
+<h3 align="left">🚀 About Me</h3>
 
-###
+<p align="left">
+I'm a DevOps Engineer passionate about cloud computing, automation, and building scalable infrastructure. Based in Tamil Nadu, India.<br><br>
+- 🔭 I’m currently working as a DevOps Engineer<br>
+- 🛠️ Experienced with AWS, GCP, Kubernetes, Terraform, Jenkins, GitHubActions, GitLab and ELK <br>
+- 📚 Currently exploring advanced cloud architectures and security best practices<br>
+- 💡 I love automating workflows and optimizing CI/CD pipelines<br>
+- ✍️ I share my learnings via blogs and open-source contributions
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm YOUR NAME, based in YOUR LOCATION.<br><br>
-- 🔭 I’m working as a DevOps Engineer<br>
-- 📚 I'm currently learning and exploring AWS, Kubernetes, and Terraform<br>
-- ⚡ In my free time, I contribute to open-source projects and write tech blogs</p>
-
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
+<h3 align="left">🛠 Technologies & Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="Jenkins logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="35" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="40" alt="ELK Stack" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="40" alt="GitHub Actions" />
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="40" alt="Cloudflare" />
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="40" alt="Jira" />
 </div>
 
-###
+<h3 align="left">🏆 Certifications</h3>
 
-<h3 align="left">🔥 My Stats :</h3>
+<ul>
+  <li>📜 <b>Certified Kubernetes Administrator (CKA)</b></li>
+  <li>🌍 <b>Google Cloud Certified - Associate Cloud Engineer</b></li>
+  <li>☁️ <b>AWS Certified Solutions Architect - Associate</b></li>
+</ul>
 
-###
+<h3 align="left">📬 Connect with Me</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/dineshkumar-s-938989180">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" height="30" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=flat-square&logo=gmail" height="30" alt="Email" />
+  </a>
 </div>
-
-###
